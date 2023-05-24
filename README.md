@@ -12,3 +12,4 @@ Projeto Home Instagram do curso: HTML e CSS: Técnicas Avançadas - Prof. Matheu
 ##
 
 ## 💻Demonstração do Projeto:
+![image](https://github.com/biancamartinelli/home-instagram/assets/107266212/6028f546-9f08-4bdb-86a4-24e691a26b8d)
